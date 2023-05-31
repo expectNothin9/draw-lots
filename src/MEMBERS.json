@@ -1,0 +1,27 @@
+{
+  "members": [
+    { "id": "dlin", "name": "Derek", "role": "frontend" },
+    { "id": "yphuang", "name": "Yi-Pei", "role": "frontend" },
+    { "id": "rwen", "name": "Ray", "role": "frontend" },
+    { "id": "mqiu", "name": "Marshall", "role": "frontend" },
+    { "id": "vliu", "name": "Vincent", "role": "frontend" },
+    { "id": "jhung", "name": "Josh", "role": "frontend" },
+    { "id": "nkang", "name": "Ning", "role": "frontend" },
+    { "id": "jlin", "name": "Jack", "role": "director" },
+    { "id": "tichen", "name": "Tino", "role": "quality assurance" },
+    { "id": "pchiang", "name": "Prasanna", "role": "full stack" },
+    { "id": "btarng", "name": "Ben", "role": "full stack" },
+    { "id": "whung", "name": "Willy", "role": "full stack" },
+    { "id": "hchang", "name": "Howard", "role": "full stack" },
+    { "id": "pchen", "name": "Pacy", "role": "full stack" },
+    { "id": "vjuan", "name": "Vic", "role": "full stack" },
+    { "id": "elin", "name": "Eric", "role": "full stack" },
+    { "id": "wshao", "name": "Wendy", "role": "vice president" },
+    { "id": "tlee", "name": "Ted", "role": "full stack" },
+    { "id": "dchung", "name": "Derrick", "role": "full stack" },
+    { "id": "fchuang", "name": "Flora", "role": "full stack" },
+    { "id": "dwuang", "name": "Darcy", "role": "designer" },
+    { "id": "cwliang", "name": "Che-Wei", "role": "full stack" },
+    { "id": "jolin", "name": "John", "role": "full stack" }
+  ]
+}
